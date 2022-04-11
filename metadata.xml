@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The first of the English</dc:title>
+      <dc:creator>Archibald Clavering Günter (1847–1907)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2022-04-09</dc:publisher>
+      <dc:date>2022-04-09</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive (copy 1).
+A Dutch adaptation of this work is also available from Project Gutenberg as Een strijd om de schatten van Alva: of De watergeuzen in 1572.
+</dc:rights>
+      <dc:identifier>pg:67804</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
